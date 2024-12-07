@@ -9,7 +9,7 @@
 
  .home-container{
     height: 100vh;
-    background-image: url(./image.jpg);
+    background-image: url(./image\ 2.jpg);
     background-position: center;
     color: #fff;
  }
@@ -91,4 +91,18 @@
     background-color: #000000;
     border: none;
     border-radius: 10px;
+ }
+
+ .input .input-container{
+   position: relative;
+ }
+
+ .input .input-container input{
+   padding-left: 18px;
+ }
+
+ .input .input-container i{
+    margin-left: -97%;
+    position: absolute;
+    top: 30%;
  }
