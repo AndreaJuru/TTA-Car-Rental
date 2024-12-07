@@ -131,7 +131,7 @@
    width: 87%;
  }
 
- .brand-section-button, a .body-type-section-button a{
+ .brand-section-button a, .body-type-section-button a{
    text-decoration: none;
    color: #000000;
  }
